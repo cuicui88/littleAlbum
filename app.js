@@ -21,3 +21,4 @@ app.use(function(req,res){
     res.render("err");
 });
 app.listen(3000,"10.170.51.225");
+//你好陌生人
